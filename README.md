@@ -2,7 +2,7 @@
 ### 임예린
 
 ### Contact
-> git : https://github.com/enurinm
+> git : https://github.com/enurinm  
 > mail : `enurinm@gmail.com` or `enu2019@naver.com`
 
 
