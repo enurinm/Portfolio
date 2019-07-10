@@ -29,6 +29,7 @@
 - **[폼생폼사(FormLiveFormDead)](https://github.com/enurinm/FormLiveFormDead)**  
   
   > 실시간 날씨 기반 스타일 추천 애플리케이션. 모바일 안드로이드에서 구동된다.  
+  > - JAVA  
   > - SK weather planet API, waqi API 사용  
   > - MariaDB 사용  
   > - **[실행 영상 -Youtube](https://youtu.be/Ie1JiVwIsrU)**
@@ -37,7 +38,8 @@
   
 - **[도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)**  
 
-  > 공부를 도와주는 애플리케이션. 컴퓨터에서 구동된다.   
+  > 공부를 도와주는 애플리케이션. 컴퓨터에서 구동된다. 
+  > - JAVA  
   > - CM 프로그램 사용  
   > - **[실행 영상 -Youtube](https://www.youtube.com/playlist?list=PLIQFkNPFMKK2KIjrLJWWWIqrUvgE7Z-T8)**
   
@@ -59,6 +61,8 @@ void CSetNode::Minimax(CMyNode *root, int depth)
 
 }
 ```
+> 사람을 대신하여 사목놀이 게임을 수행할 수 있는 지능형 프로그램(game agent) 구현
+> - C++
 
 #### Simple project
 - [간단한 병원 DB 프로그램](https://github.com/enurinm/Hospital_DB)
