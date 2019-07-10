@@ -8,13 +8,12 @@ portfolio of enurinm
 
 
 # Language  
-- `JAVA`ff
-- C
-- HTML, 
+- `JAVA`
+- `C, HTML`
 
 
 
 # Projects
-- 폼생폼사(FormLiveFormDead)
-- 도담도담(DodamDodam)
+- [폼생폼사(FormLiveFormDead)](https://github.com/enurinm/FormLiveFormDead)
+- [도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)
 
