@@ -1,5 +1,5 @@
 # About Me
-### 임예린
+### 임예린(ENU)
 다양한 콘텐츠와 애플리케이션 개발에 관심이 있는 예비개발자입니다.
 
 > git : https://github.com/enurinm  
@@ -28,7 +28,7 @@
 - [폼생폼사(FormLiveFormDead)](https://github.com/enurinm/FormLiveFormDead)
 - [도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)
 #### Simple project
-- [달리기 프로그램]()
+- [달리기 프로그램](https://github.com/enurinm/Running)
 
 ## 2018.07~2018.12
 - [사목놀이(Four stone) 게임 에이전트 구현](https://github.com/enurinm/FourStone)
@@ -39,6 +39,6 @@
 - [레시피 작성 프로그램](https://github.com/enurinm/Recipe)
 #### Simple project
 - [정수 계산기:사칙연산,괄호](https://github.com/enurinm/Calculator)
-- [키로거]()
+- [키로거](https://github.com/enurinm/KeyLoger)
 - [스카이라인]()
 
