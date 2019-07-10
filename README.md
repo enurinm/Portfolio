@@ -26,7 +26,7 @@
   
 # Projects
 ## 2019.01~2019.06  
-- **[폼생폼사(FormLiveFormDead)](https://github.com/enurinm/FormLiveFormDead)**  
+### [폼생폼사(FormLiveFormDead)](https://github.com/enurinm/FormLiveFormDead) 
   
   > 실시간 날씨 기반 스타일 추천 애플리케이션. 모바일 안드로이드에서 구동된다.  
   > - JAVA  
