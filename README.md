@@ -38,7 +38,7 @@
   
 - **[도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)**  
 
-  > 공부를 도와주는 애플리케이션. 컴퓨터에서 구동된다. 
+  > 공부를 도와주는 단체 타이머 애플리케이션.
   > - JAVA  
   > - CM 프로그램 사용  
   > - **[실행 영상 -Youtube](https://www.youtube.com/playlist?list=PLIQFkNPFMKK2KIjrLJWWWIqrUvgE7Z-T8)**
