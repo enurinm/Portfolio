@@ -29,7 +29,8 @@
   
   > 실시간 날씨 기반 스타일 추천 애플리케이션. 모바일 안드로이드에서 구동된다.  
   > - SK weather planet API, waqi API 사용  
-  > - MariaDB 사용
+  > - MariaDB 사용  
+![Alt text](/img/f1.PNG "폼생폼사 애플리케이션 화면")
   
 - [도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)  
 
