@@ -30,6 +30,7 @@
   > 실시간 날씨 기반 스타일 추천 애플리케이션. 모바일 안드로이드에서 구동된다.  
   > - SK weather planet API, waqi API 사용  
   > - MariaDB 사용  
+  > - [실행 영상 -Youtube](https://youtu.be/Ie1JiVwIsrU)
   
 ![Alt text](/img/f1.PNG "폼생폼사 애플리케이션 화면")
 ![Alt text](/img/f5.PNG)
@@ -38,7 +39,7 @@
 
   > 공부를 도와주는 애플리케이션. 컴퓨터에서 구동된다.   
   > - CM 프로그램 사용  
-  > - [실행 영상 -youtube](https://www.youtube.com/playlist?list=PLIQFkNPFMKK2KIjrLJWWWIqrUvgE7Z-T8)
+  > - [실행 영상 -Youtube](https://www.youtube.com/playlist?list=PLIQFkNPFMKK2KIjrLJWWWIqrUvgE7Z-T8)
 
 #### Simple project
 - [달리기 프로그램](https://github.com/enurinm/Running)
