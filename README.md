@@ -70,7 +70,9 @@ void CSetNode::Minimax(CMyNode *root, int depth)
 ## 2018.01~2018.06
 ### [레시피 작성 프로그램](https://github.com/enurinm/Recipe)  
 
-> 
+> 요리법을 작성하여 저장하고 원하는 요리법을 출력할 수 있는 프로그램.  
+> - C  
+> - **[실행 영상 -Youtube](https://youtu.be/70VP88LbDRY)**
   
 ![Alt text](/img/r1.PNG)
 
