@@ -8,10 +8,9 @@ portfolio of enurinm
 
 
 # Language  
-## Main Language
-- JAVA
-## Other Laguage
+- >JAVA
 - C
+- HTML
 
 
 
