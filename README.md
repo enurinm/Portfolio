@@ -47,7 +47,7 @@
 - [달리기 프로그램](https://github.com/enurinm/Running)
 
 ## 2018.07~2018.12
-- [사목놀이(Four stone) 게임 에이전트 구현](https://github.com/enurinm/FourStone)  
+- **[사목놀이(Four stone) 게임 에이전트 구현](https://github.com/enurinm/FourStone)**  
 ```c++
 void CSetNode::Minimax(CMyNode *root, int depth)
 {
@@ -64,7 +64,7 @@ void CSetNode::Minimax(CMyNode *root, int depth)
 - [간단한 병원 DB 프로그램](https://github.com/enurinm/Hospital_DB)
 
 ## 2018.01~2018.06
-- [레시피 작성 프로그램](https://github.com/enurinm/Recipe)  
+- **[레시피 작성 프로그램](https://github.com/enurinm/Recipe)**  
 
 > 
 
