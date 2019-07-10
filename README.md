@@ -35,6 +35,7 @@
 
   > 공부를 도와주는 애플리케이션. 컴퓨터에서 구동된다.   
   > - CM 프로그램 사용
+  > [실행 영상](https://www.youtube.com/playlist?list=PLIQFkNPFMKK2KIjrLJWWWIqrUvgE7Z-T8)
 
 #### Simple project
 - [달리기 프로그램](https://github.com/enurinm/Running)
