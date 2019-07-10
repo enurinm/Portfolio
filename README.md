@@ -1,18 +1,17 @@
-# About Me
+## About Me
 ### 임예린
 
-### Contact
+
 > git : https://github.com/enurinm  
 > mail : `enurinm@gmail.com` or `enu2019@naver.com`
 
 
-# Language  
-- `JAVA`
-- `C, HTML`
+## Language  
+- `JAVA`를 가장 많이 사용하며, 익숙한 언어입니다.
+- `C, HTML`을 어느 정도 사용했습니다.
 
 
-
-# Projects
+## Projects
 ### 2019.01~2019.06
 - [폼생폼사(FormLiveFormDead)](https://github.com/enurinm/FormLiveFormDead)
 - [도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)
