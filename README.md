@@ -8,11 +8,9 @@ portfolio of enurinm
 
 
 # Language  
-```
-- JAVA
+- `JAVA`ff
 - C
 - HTML, 
-```
 
 
 
