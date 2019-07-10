@@ -41,7 +41,7 @@
   > - CM 프로그램 사용  
   > - **[실행 영상 -Youtube](https://www.youtube.com/playlist?list=PLIQFkNPFMKK2KIjrLJWWWIqrUvgE7Z-T8)**
   
- ![Alt text](/img/f1.PNG)
+ ![Alt text](/img/d1.PNG)
 
 #### Simple project
 - [달리기 프로그램](https://github.com/enurinm/Running)
