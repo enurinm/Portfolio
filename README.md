@@ -71,6 +71,8 @@ void CSetNode::Minimax(CMyNode *root, int depth)
 ### [레시피 작성 프로그램](https://github.com/enurinm/Recipe)  
 
 > 
+  
+![Alt text](/img/r1.PNG)
 
 ### Simple project
 - [정수 계산기:사칙연산,괄호](https://github.com/enurinm/Calculator)
