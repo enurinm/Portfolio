@@ -45,7 +45,7 @@
   
  ![Alt text](/img/d1.PNG)
 
-#### Simple project
+### Simple project
 - [달리기 프로그램](https://github.com/enurinm/Running)
 
 ## 2018.07~2018.12
@@ -64,7 +64,7 @@ void CSetNode::Minimax(CMyNode *root, int depth)
 > 사람을 대신하여 사목놀이 게임을 수행할 수 있는 지능형 프로그램(game agent) 구현
 > - C++
 
-#### Simple project
+### Simple project
 - [간단한 병원 DB 프로그램](https://github.com/enurinm/Hospital_DB)
 
 ## 2018.01~2018.06
@@ -72,7 +72,7 @@ void CSetNode::Minimax(CMyNode *root, int depth)
 
 > 
 
-#### Simple project
+### Simple project
 - [정수 계산기:사칙연산,괄호](https://github.com/enurinm/Calculator)
 - [키로거](https://github.com/enurinm/KeyLoger)
 - [스카이라인](https://github.com/enurinm/SkyLine-MakingFence)
