@@ -32,9 +32,7 @@
   > - MariaDB 사용  
   
 ![Alt text](/img/f1.PNG "폼생폼사 애플리케이션 화면")
-![Alt text](/img/f2.PNG)
-![Alt text](/img/f3.PNG)
-![Alt text](/img/f4.PNG)
+![Alt text](/img/f5.PNG)
   
 - [도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)  
 
