@@ -32,9 +32,7 @@
   > - SK weather planet API, waqi API 사용  
   > - MariaDB 사용  
   > - [실행 영상 -Youtube](https://youtu.be/Ie1JiVwIsrU)
-  
-![Alt text](/img/f1.PNG "폼생폼사 애플리케이션 화면")
-![Alt text](/img/f5.PNG)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ie1JiVwIsrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 - [도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)  
 
