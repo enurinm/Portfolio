@@ -1,11 +1,11 @@
 # 임예린
 portfolio of enurinm
 
-***
+
 
 # About Me
 
-***
+
 
 # Language  
 ## Main Language
@@ -13,7 +13,7 @@ portfolio of enurinm
 ## Other Laguage
 - C
 
-***
+
 
 # Projects
 - 폼생폼사(FormLiveFormDead)
