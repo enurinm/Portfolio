@@ -1,5 +1,5 @@
-# About Me
-### 임예린(ENU)
+# 임예린(ENU)
+## About Me
 다양한 콘텐츠와 애플리케이션 개발에 관심이 있는 예비개발자입니다.
 
 > git : https://github.com/enurinm  
