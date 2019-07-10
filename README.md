@@ -33,15 +33,13 @@
   > - MariaDB 사용  
   > - [실행 영상 -Youtube](https://youtu.be/Ie1JiVwIsrU)  
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ie1JiVwIsrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](https://www.youtube.com/watch?v=Ie1JiVwIsrU/0.jpg)](https://www.youtube.com/watch?v=Ie1JiVwIsrU?t=0s) Video Label
   
 - [도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)  
 
   > 공부를 도와주는 애플리케이션. 컴퓨터에서 구동된다.   
   > - CM 프로그램 사용  
   > - [실행 영상 -Youtube](https://www.youtube.com/playlist?list=PLIQFkNPFMKK2KIjrLJWWWIqrUvgE7Z-T8)
-  
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/Ie1JiVwIsrU" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 #### Simple project
 - [달리기 프로그램](https://github.com/enurinm/Running)
