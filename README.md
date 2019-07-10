@@ -48,8 +48,17 @@
 
 ## 2018.07~2018.12
 - [사목놀이(Four stone) 게임 에이전트 구현](https://github.com/enurinm/FourStone)  
+```
+void CSetNode::Minimax(CMyNode *root, int depth)
+{
+	int alpha = INT_MIN;
+	int beta = INT_MAX;
+	int player = root->player;
+	int switchedPlayer = (player == 1) ? 2 : 1;
+	ABPruning(root, switchedPlayer, alpha, beta, depth);
 
-> 
+}
+```
 
 #### Simple project
 - [간단한 병원 DB 프로그램](https://github.com/enurinm/Hospital_DB)
