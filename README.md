@@ -50,7 +50,7 @@
 	- JAVA
 
 ## 2018.07~2018.12
-### [사목놀이(Four stone) 게임 에이전트 구현](https://github.com/enurinm/FourStone)  
+### [사목놀이(Make Four) 게임 에이전트 구현](https://github.com/enurinm/FourStone)  
 ```c++
 void CSetNode::Minimax(CMyNode *root, int depth)
 {
