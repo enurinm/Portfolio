@@ -48,7 +48,7 @@
 
 ## 2018.07~2018.12
 - [사목놀이(Four stone) 게임 에이전트 구현](https://github.com/enurinm/FourStone)  
-```
+```c++
 void CSetNode::Minimax(CMyNode *root, int depth)
 {
 	int alpha = INT_MIN;
