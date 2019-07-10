@@ -33,9 +33,7 @@
   
 - [도담도담(DodamDodam)](https://github.com/enurinm/DodamDodam)  
 
-  > 공부를 도와주는 애플리케이션. 컴퓨터에서 구동된다.  
-  > 접속 후 1시간마다 나무가 자라며, 마우스 이벤트/키보드 이벤트가 감지되면 나무가 죽고 실패한다.   
-  > 3시간동안 실패하지 않을 경우 나무가 열매를 맺고 성공적으로 끝난다.  
+  > 공부를 도와주는 애플리케이션. 컴퓨터에서 구동된다.   
   > - CM 프로그램 사용
 
 #### Simple project
@@ -43,13 +41,17 @@
 
 ## 2018.07~2018.12
 - [사목놀이(Four stone) 게임 에이전트 구현](https://github.com/enurinm/FourStone)  
+
 > 
+
 #### Simple project
 - [간단한 병원 DB 프로그램](https://github.com/enurinm/Hospital_DB)
 
 ## 2018.01~2018.06
 - [레시피 작성 프로그램](https://github.com/enurinm/Recipe)  
+
 > 
+
 #### Simple project
 - [정수 계산기:사칙연산,괄호](https://github.com/enurinm/Calculator)
 - [키로거](https://github.com/enurinm/KeyLoger)
