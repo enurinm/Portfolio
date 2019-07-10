@@ -80,7 +80,7 @@ void CSetNode::Minimax(CMyNode *root, int depth)
 ![Alt text](/img/r1.PNG)
 
 ### Simple project
-- **[정수 계산기:사칙연산,괄호](https://github.com/enurinm/Calculator)**
-- **[키로거](https://github.com/enurinm/KeyLoger)**
-- **[스카이라인](https://github.com/enurinm/SkyLine-MakingFence)**
+- **[정수 계산기:사칙연산,괄호](https://github.com/enurinm/Calculator)** :JAVA
+- **[키로거](https://github.com/enurinm/KeyLoger)** :JAVA
+- **[스카이라인](https://github.com/enurinm/SkyLine-MakingFence)** :JAVA
 
