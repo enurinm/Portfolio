@@ -2,6 +2,8 @@
 ## About Me
 다양한 콘텐츠와 애플리케이션 개발에 관심이 있는 예비개발자입니다.
 
+효과적이고(Effective) 참신하며(Novelty) 유용한(Useful) 프로그램을 개발하는 것이 목표입니다.
+
 > git : https://github.com/enurinm  
 > mail : `enurinm@gmail.com` or `enu2019@naver.com`
 
