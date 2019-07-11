@@ -19,7 +19,7 @@
   - 어느 정도 사용해 본 언어입니다.
   - **시스템 io**
 - `HTML, javascript, C++`를 사용한 프로젝트를 진행/ 참여해 보았습니다.
-- 그 외에도 `kotlin, C#`에 관심이 있습니다.
+
 
 ## Contest
 - [LINC+](https://research.konkuk.ac.kr/National/Linc)에서 주최한 2018 4차산업혁명 POWER Creative Maker Camp에서 최우수상을 수상했습니다.
