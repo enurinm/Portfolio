@@ -44,6 +44,7 @@
   > 다양한 방법으로 입력된 영상을 처리하는 프로그램
   > - C++
   > - OpenCV 3.0 사용
+  > - **[실행 결과 - pdf](https://github.com/enurinm/ImageProcessing/blob/main/Digital%20image%20processing%20code%20Execution%20Results%20and%20Observations.pdf)**
 
 
 ### Simple project
