@@ -18,7 +18,7 @@
 - `C`
   - 어느 정도 사용해 본 언어입니다.
   - **시스템 io**
-- `HTML, javascript, C++`를 사용한 프로젝트를 진행/ 참여해 보았습니다.
+- `HTML, javascript, C++, Python`을 사용한 프로젝트를 진행/ 참여해 보았습니다.
 
 
 ## Contest
