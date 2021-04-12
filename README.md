@@ -6,7 +6,7 @@
 
 
 > git : https://github.com/enurinm  
-> mail : `enurinm@gmail.com` or `enu2019@naver.com`
+> mail : `enurinm@gmail.com`
 
 
 ## Language  
@@ -14,7 +14,7 @@
   - 가장 많이 사용하며, 익숙한 언어입니다. 대부분의 프로젝트를 해당 언어를 사용해 진행했습니다.
   - **서버-클라이언트 간 네트워크 통신**
   - **시스템 io**
-  - **Maria DB를 사용해 DB 연결 및 쿼리 작성**
+  - **Maria DB, JSQL을 사용해 DB 연결 및 쿼리 작성**
 - `C`
   - 어느 정도 사용해 본 언어입니다.
   - **시스템 io**
@@ -29,6 +29,20 @@
 ***
   
 # Projects
+## 2020.01~2020.12 (업데이트 중)
+### [HateWait Server](https://github.com/enurinm/HateWaitServer)
+
+  > 가게 대기 인원 관리 및 대기순서 알림 어플리케이션의 서버
+  > - JAVA
+  > - MySQL 8.0 사용
+
+
+### [영상처리]()
+
+
+### Simple project
+- **[간단한 인공신경망 예제]()**
+
 ## 2019.01~2019.06  
 ### [폼생폼사(FormLiveFormDead)](https://github.com/enurinm/FormLiveFormDead) 
   
