@@ -39,7 +39,7 @@
 ![Alt text](/img/hwdb.JPG)
 
 
-### [영상처리]()
+### [영상처리 프로그램]()
 
 
 ### Simple project
