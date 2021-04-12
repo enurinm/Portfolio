@@ -47,7 +47,7 @@
 
 
 ### Simple project
-- **[간단한 인공신경망 예제(업데이트 중)]()**
+// - **[간단한 인공신경망 예제(업데이트 중)](https://github.com/enurinm/Portfolio/blob/master/README.md)**
 
 ## 2019.01~2019.06  
 ### [폼생폼사(FormLiveFormDead)](https://github.com/enurinm/FormLiveFormDead) 
