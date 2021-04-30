@@ -29,6 +29,12 @@
 ***
   
 # Projects
+## 2020.08~ing
+### [CM](https://github.com/enurinm/CM)
+
+  > CCS 랩에서 CM MQTT 파트 개발 중
+  > - JAVA
+
 ## 2020.01~2020.12 (업데이트 중)
 ### [HateWait Server](https://github.com/enurinm/HateWaitServer)
 
