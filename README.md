@@ -31,7 +31,7 @@
 ***
   
 # Projects
-## 2020.08~ing
+## 2020.06~ing
 ### [CM](https://github.com/enurinm/CM)
 
   > 현재 CCS 랩에서 CM MQTT 파트 개발 중
