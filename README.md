@@ -44,8 +44,9 @@
 >   - Mybatis 3.0.3
 >   - sqlite-jdbc 3.45.0.0
 
-> [화면기획서](https://www.figma.com/design/c1M3wa5WuWsF3kQ3Jx7jmR/RAS?node-id=0-1)
->
+> [화면기획서](https://www.figma.com/design/c1M3wa5WuWsF3kQ3Jx7jmR/RAS?node-id=0-1 )
+> DB ERD - ERD CLOUD
+ ![ERD](/img/RAS_ERD.png)
 
 ## 2020.06~2022.07
 ### [CM](https://github.com/enurinm/CM)
