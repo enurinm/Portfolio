@@ -31,6 +31,22 @@
 ***
   
 # Projects
+## 2023.12~
+### [RAS-Server](https://github.com/enurinm/RAS-Server)
+
+  > RAS 프로젝트 기획 및 백엔드 파트 개발 중
+  > - Java 17
+  > - Spring Boot 3.2.0
+>   - springdoc-openapi-starter-webmvc-ui v.2.3.0
+>   - Lombok
+>   - JDBC
+>   - JPA
+>   - Mybatis 3.0.3
+>   - sqlite-jdbc 3.45.0.0
+
+> [화면기획서](https://www.figma.com/design/c1M3wa5WuWsF3kQ3Jx7jmR/RAS?node-id=0-1)
+>
+
 ## 2020.06~2022.07
 ### [CM](https://github.com/enurinm/CM)
 
