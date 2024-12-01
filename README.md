@@ -12,8 +12,8 @@
 ## Language  
 - `JAVA`
   - 가장 많이 사용하며, 익숙한 언어입니다. 대부분의 프로젝트를 해당 언어를 사용해 진행했습니다.
-  - **Maria DB, MySQL을 사용한 DB 개발, 연결(DAO) 및 쿼리 작성**
-  - **Spring을 사용한 웹 페이지 백엔드 개발**
+  - **Oracle, Maria DB, MySQL을 사용한 DB 개발, 연결(DAO, Mybatis) 및 쿼리 작성**
+  - **Spring, Spring boot을 사용한 웹 페이지 백엔드 개발**
   - **서버-클라이언트 간 네트워크 통신**
   - **시스템 io**
 
@@ -31,12 +31,17 @@
 ***
   
 # Projects
-## 2020.06~ing
+## 2020.06~2022.07
 ### [CM](https://github.com/enurinm/CM)
 
-  > 현재 CCS 랩에서 CM MQTT 파트 개발 중
+  > CCS 랩에서 CM MQTT 파트 개발
   > - JAVA
   > - MQTT v.3.0
+
+  
+  > 관련 논문
+> - E-MQTT: End-to-End Synchronous and Asynchronous Communication Mechanisms in MQTT Protocol
+> - QoS 레벨 3: 사물인터넷에서 MQTT 프로토콜의 동기식 통신 메카니즘
 
 ## 2020.01~2020.12 (업데이트 중)
 ### [HateWait Server](https://github.com/enurinm/HateWaitServer)
